@@ -14,7 +14,7 @@ This project is a simple **login page** built using **React Native** and **Clerk
 
 - [React Native](https://reactnative.dev/)
 - [Clerk](https://clerk.dev/)
-- [Expo](https://expo.dev/) (optional, but simplifies development)
+- [Expo](https://expo.dev/) 
 
 ## Getting Started
 
@@ -23,5 +23,5 @@ This project is a simple **login page** built using **React Native** and **Clerk
 ```bash
 git clone https://github.com/your-username/clerk-login-react-native.git
 cd clerk-login-react-native
-![WhatsApp Image 2025-06-20 at 15 53 32_13210fad](https://github.com/user-attachments/assets/4d546895-db5d-4fc9-b048-d6fa0f658170)
+
 
