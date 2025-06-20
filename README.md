@@ -17,7 +17,8 @@ This project is a simple **login page** built using **React Native** and **Clerk
 - [Expo](https://expo.dev/) 
 
 ## Getting Started
-![login](https://github.com/user-attachments/assets/f0c223a3-511e-42dd-aa8c-70799045ba3c)
+<img src="https://github.com/user-attachments/assets/f0c223a3-511e-42dd-aa8c-70799045ba3c" width="500" alt="Description">
+<!-- ![login](https://github.com/user-attachments/assets/f0c223a3-511e-42dd-aa8c-70799045ba3c) -->
 
 
 ### 1. Clone the Repository
